@@ -16,4 +16,4 @@
 - 🔭 Currently building: Something Interesting
 - 📫 Contact: info@studiogrx.es
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DeMaarco&show_icons=true)                                              
+![GitHub Streak](https://streak-stats.demolab.com?user=DeMaarco&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=01696f&fire=01696f&currStreakLabel=01696f)                                     
