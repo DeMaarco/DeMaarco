@@ -1,6 +1,6 @@
 <div align="center">
 
-# DeMarco
+# Diego Gualda
 
 ### Full-Stack Developer · TypeScript · Rust · Node.js
 
