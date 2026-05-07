@@ -6,4 +6,4 @@ Full-stack developer · TypeScript · Rust · Node.js
 - 🔭 Currently building: Something Interesting
 - 📫 Contact: info@studiogrx.es
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demaarco&show_icons=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeMaarco&show_icons=true&theme=transparent&hide_border=true"/>
