@@ -1,9 +1,9 @@
-### Hi, I'm [tu nombre] 👋
+### Hi, I'm DeMarco 👋
 
 Full-stack developer · TypeScript · Rust · Node.js
 
 - 🌍 Based in Granada, Spain
-- 🔭 Currently building: [tu proyecto actual]
-- 📫 Contact: [tu email o web]
+- 🔭 Currently building: Something Interesting
+- 📫 Contact: info@studiogrx.es
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=demaarco&show_icons=true&theme=dark)
